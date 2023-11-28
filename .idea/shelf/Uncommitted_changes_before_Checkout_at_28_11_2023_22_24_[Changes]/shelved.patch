@@ -1,0 +1,14 @@
+Index: src/main/kotlin/test.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>class test {\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/kotlin/test.kt b/src/main/kotlin/test.kt
+--- a/src/main/kotlin/test.kt	(revision a5f61f2a322d22ed57a33025f253cbb52db8b335)
++++ b/src/main/kotlin/test.kt	(date 1701199433866)
+@@ -1,2 +1,0 @@
+-class test {
+-}
+\ No newline at end of file
