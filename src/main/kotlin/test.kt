@@ -1,2 +1,4 @@
-class test {
+fun main() {
+    println("привет")
+    println("hi")
 }
